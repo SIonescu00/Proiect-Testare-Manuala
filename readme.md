@@ -26,11 +26,17 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 #### 1.1.2 Entry criteria defined
-*Testing Environment Established
-*
+* Testing Environment Established
+* Reequierement documents
+* The risks have been detected
+
 
 
 #### 1.1.3 Exit criteria defined
+* All tests have been performed
+* Fixed all important existing bugs
+* The deadline has been reached
+* The allocated budget was sufficient
 
 #### 1.1.4 Test scope
 
@@ -39,8 +45,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
+* Project risks: The person is insufficiently prepared or without the necessary experience to complete the tests as accurately as possible, insufficient personnel to complete the tests, 
+* Product risks: Insufficient information about the organizations, 
 
 #### 1.1.6 Evaluating entry criteria
 
